@@ -5,3 +5,4 @@ Links to the projects in this repo:-
 2) B'day invite (using HTML only)->> https://aditya-gitofficial.github.io/Web_dev/B'day%20Invite(HTML)
 3) Capstone Project 1(using HTML only)->>https://aditya-gitofficial.github.io/Web_dev/Capstone%20Project%201
 4) Movie ranking Project(using HTML only)->>https://aditya-gitofficial.github.io/Web_dev/Movie%20ranking(HTML)
+5) Photography Club(using HTML only)->>https://aditya-gitofficial.github.io/Web_dev/Photography%20club%20(HTML)
